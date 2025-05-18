@@ -1,24 +1,12 @@
-# High-Performance PySpark: Advanced Strategies for Optimal Data Processing
-This is the repository for the LinkedIn Learning course High-Performance PySpark: Advanced Strategies for Optimal Data Processing. The full course is available from [LinkedIn Learning][lil-course-url].
+# Pyspark Notes
+This was forked from the repository for the LinkedIn Learning course High-Performance PySpark: Advanced Strategies for Optimal Data Processing. The full course is available on [LinkedIn Learning](https://www.linkedin.com/learning-login/share?account=109812938&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fhigh-performance-pyspark-advanced-strategies-for-optimal-data-processing%3Ftrk%3Dshare_ent_url%26shareId%3D%252FrjCNkgoQfGouh4ZXQvOrg%253D%253D).
 
-![lil-thumbnail-url]
+I edited the repository to add more code that is also related to Pyspark.
 
-## Course Description
+## Content Description
 
-<p>Master the art of efficient data processing with this advanced PySpark course designed for data engineers. Instructor Ameena Ansari shows you the essentials of optimizing the data cleaning process and defining schemas to streamline ingestion at scale. Explore various data formats and compression techniques to ensure seamless performance, even with massive datasets. By the end of this course, you'll have the tools and skills you need to transform and ingest high-quality data using PySpark pipelines that are both scalable and efficient.</p><p>This course is integrated with GitHub Codespaces, an instant cloud developer environment that offers all the functionality of your favorite IDE without the need for any local machine setup. With GitHub Codespaces, you can get hands-on practice from any machine, at any time—all while using a tool that you’ll likely encounter in the workplace. Check out “Using GitHub Codespaces" with this course to learn how to get started.</p>
-
-### Instructor
-
-Ameena Ansari
-
-Senior Data Engineer | Distributed Systems Enthusiast
-            
-
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ameena-ansari?u=104).
-
-
-[0]: # (Replace these placeholder URLs with actual course URLs)
-
-[lil-course-url]: https://www.linkedin.com/learning/high-performance-pyspark-advanced-strategies-for-optimal-data-processing
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4D0DAQF9SgFc3KVInA/learning-public-crop_675_1200/B4DZWvyUwyHkAg-/0/1742410960278?e=2147483647&v=beta&t=ghLQ25NrktuaSAWGmb9Y8qCGzAb2LwM16pWC23Up4IE
-
+1. Data Cleaning
+2. Defining Schema
+3. Compression Techniques
+4. Repartitioning
+5. Machine Learning
