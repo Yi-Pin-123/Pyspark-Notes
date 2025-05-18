@@ -9,4 +9,4 @@ I edited the repository to add more code that is also related to Pyspark.
 2. Defining Schema
 3. Compression Techniques
 4. Repartitioning
-5. Machine Learning
+5. Clustering Model
